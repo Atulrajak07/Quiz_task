@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981167433013",
+    "project_id": "mcq-quiz-3ad3b",
+    "storage_bucket": "mcq-quiz-3ad3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981167433013:android:1821e67b95924b3de3187c",
+        "android_client_info": {
+          "package_name": "com.example.earnest_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981167433013-8r9tnh6rb9tirc00d89sm7ngdchvk9qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZgZpHVlkxI2_C2G9L5LLrws3cUKcBo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981167433013-8r9tnh6rb9tirc00d89sm7ngdchvk9qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
